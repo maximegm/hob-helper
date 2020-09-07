@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "2a73dca661513c77f572",
+    "revision": "70af8eb106c0b8afb822",
     "url": "/hob-helper/static/css/main.2742c059.chunk.css"
   },
   {
-    "revision": "2a73dca661513c77f572",
-    "url": "/hob-helper/static/js/main.c2bcdcd0.chunk.js"
+    "revision": "70af8eb106c0b8afb822",
+    "url": "/hob-helper/static/js/main.fc7adcef.chunk.js"
   },
   {
     "revision": "49d978741aca45db16a6",
     "url": "/hob-helper/static/js/runtime~main.f3f2e37a.js"
   },
   {
-    "revision": "a7cafa981fb161048bcc",
-    "url": "/hob-helper/static/js/2.d8fe0523.chunk.js"
+    "revision": "44ce523c3720201ec962",
+    "url": "/hob-helper/static/js/2.aee0dfc5.chunk.js"
   },
   {
     "revision": "f1d1a7494c5a9273cf415de830e5f760",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/hob-helper/static/media/astra.a39e5f5d.jpg"
   },
   {
-    "revision": "bff8c1e4e184c9eff8527a476893dd4b",
+    "revision": "24c72852114e63ccbbf3e69b80a4e11c",
     "url": "/hob-helper/index.html"
   }
 ];
