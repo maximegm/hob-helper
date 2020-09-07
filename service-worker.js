@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/hob-helper-gh-helper/precache-manifest.bb1dba4f5e2bb2bac196c5daaa934e87.js"
+  "/hob-helper/precache-manifest.ccd899eb365756735aaeff7a5f2aea76.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/hob-helper-gh-helper/index.html", {
+workbox.routing.registerNavigationRoute("/hob-helper/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
